@@ -1,0 +1,3 @@
+include ':FlycoTabLayout_Lib'
+include ':app'
+rootProject.name = "FlycoTabLayout-Androidx"
